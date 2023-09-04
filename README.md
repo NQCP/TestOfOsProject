@@ -1,7 +1,7 @@
 # testofosproject
 
 # Description
-[Examples](https://nqcp.github.io/testofosproject/example_notebooks/index.html)
+[Examples](https://nqcp.github.io/TestOfOsProject/example_notebooks/index.html)
 # Installation
 
 # Usage
