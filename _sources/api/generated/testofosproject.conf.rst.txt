@@ -1,0 +1,10 @@
+testofosproject.conf package
+============================
+
+Module contents
+---------------
+
+.. automodule:: testofosproject.conf
+   :members:
+   :undoc-members:
+   :show-inheritance:

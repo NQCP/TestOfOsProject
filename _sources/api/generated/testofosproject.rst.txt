@@ -1,0 +1,30 @@
+testofosproject package
+=======================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 10
+
+   testofosproject.conf
+   testofosproject.tests
+
+Submodules
+----------
+
+testofosproject.hello\_world module
+-----------------------------------
+
+.. automodule:: testofosproject.hello_world
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: testofosproject
+   :members:
+   :undoc-members:
+   :show-inheritance:
